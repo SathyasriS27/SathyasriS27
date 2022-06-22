@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SathyasriS27
 - 👀 I’m interested in Data Science/ Image Processing
-- 🌱 I’m currently learning AWS to become an AWS cloud Data Engineer
+- 🌱 I’m currently preparing for my AWS Solution Architect Exam 
 
 <!---
 SathyasriS27/SathyasriS27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
